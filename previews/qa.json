@@ -1,0 +1,225 @@
+{
+  "responsive": [
+    {
+      "page": "index",
+      "width": 320,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диван,на которыйхочется домой.",
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диван,на которыйхочется домой.",
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 768,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диван,на которыйхочется домой.",
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 1024,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диван,на которыйхочется домой.",
+      "errors": []
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диван,на которыйхочется домой.",
+      "errors": []
+    },
+    {
+      "page": "catalog",
+      "width": 320,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны длявашего дома.",
+      "errors": []
+    },
+    {
+      "page": "catalog",
+      "width": 390,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны длявашего дома.",
+      "errors": []
+    },
+    {
+      "page": "catalog",
+      "width": 768,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны длявашего дома.",
+      "errors": []
+    },
+    {
+      "page": "catalog",
+      "width": 1024,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны длявашего дома.",
+      "errors": []
+    },
+    {
+      "page": "catalog",
+      "width": 1440,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны длявашего дома.",
+      "errors": []
+    },
+    {
+      "page": "fabrics",
+      "width": 320,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ткань,которая ваша.",
+      "errors": []
+    },
+    {
+      "page": "fabrics",
+      "width": 390,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ткань,которая ваша.",
+      "errors": []
+    },
+    {
+      "page": "fabrics",
+      "width": 768,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ткань,которая ваша.",
+      "errors": []
+    },
+    {
+      "page": "fabrics",
+      "width": 1024,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ткань,которая ваша.",
+      "errors": []
+    },
+    {
+      "page": "fabrics",
+      "width": 1440,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ткань,которая ваша.",
+      "errors": []
+    },
+    {
+      "page": "order",
+      "width": 320,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ваш диван.Ваши правила.",
+      "errors": []
+    },
+    {
+      "page": "order",
+      "width": 390,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ваш диван.Ваши правила.",
+      "errors": []
+    },
+    {
+      "page": "order",
+      "width": 768,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ваш диван.Ваши правила.",
+      "errors": []
+    },
+    {
+      "page": "order",
+      "width": 1024,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ваш диван.Ваши правила.",
+      "errors": []
+    },
+    {
+      "page": "order",
+      "width": 1440,
+      "overflow": 0,
+      "broken": [],
+      "title": "Ваш диван.Ваши правила.",
+      "errors": []
+    },
+    {
+      "page": "showrooms",
+      "width": 320,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны, которыеможно почувствовать.",
+      "errors": []
+    },
+    {
+      "page": "showrooms",
+      "width": 390,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны, которыеможно почувствовать.",
+      "errors": []
+    },
+    {
+      "page": "showrooms",
+      "width": 768,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны, которыеможно почувствовать.",
+      "errors": []
+    },
+    {
+      "page": "showrooms",
+      "width": 1024,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны, которыеможно почувствовать.",
+      "errors": []
+    },
+    {
+      "page": "showrooms",
+      "width": 1440,
+      "overflow": 0,
+      "broken": [],
+      "title": "Диваны, которыеможно почувствовать.",
+      "errors": []
+    }
+  ],
+  "functional": {
+    "catalogInitial": 9,
+    "cornerCount": 3,
+    "cornerUnder290": 1,
+    "resetCatalog": 9,
+    "sageCard": true,
+    "modalOpened": true,
+    "colorChanges": true,
+    "bagCount": "1",
+    "drawerOpen": true,
+    "drawerRow": 1,
+    "bagText": true,
+    "drawerClosed": true,
+    "orderImageChanged": true,
+    "orderMessageDetails": true,
+    "orderCopied": true,
+    "mobileMenuOpen": true,
+    "mobileMenuClosed": true,
+    "paletteChanges": true,
+    "errors": []
+  }
+}
