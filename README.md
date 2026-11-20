@@ -1,0 +1,1 @@
+# mebel-ti-vologda-sofa
